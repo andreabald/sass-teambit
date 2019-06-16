@@ -10725,8 +10725,8 @@ var $ = __webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js"
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/andrea/lampstack-7.1.29-0/apache2/htdocs/esercizi_boolean/1_sass_teambit/src/js/app.js */"./src/js/app.js");
-module.exports = __webpack_require__(/*! /home/andrea/lampstack-7.1.29-0/apache2/htdocs/esercizi_boolean/1_sass_teambit/src/scss/app.scss */"./src/scss/app.scss");
+__webpack_require__(/*! /home/andrea/lampstack-7.3.6-1/apache2/htdocs/es_boolean/1_sass_teambit/src/js/app.js */"./src/js/app.js");
+module.exports = __webpack_require__(/*! /home/andrea/lampstack-7.3.6-1/apache2/htdocs/es_boolean/1_sass_teambit/src/scss/app.scss */"./src/scss/app.scss");
 
 
 /***/ })
